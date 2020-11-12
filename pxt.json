@@ -1,0 +1,20 @@
+{
+    "name": "light-level-meter暗くなったら点灯",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "main.blocks"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
