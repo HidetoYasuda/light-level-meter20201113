@@ -12,7 +12,7 @@ basic.forever(function () {
     if (input.buttonIsPressed(Button.A)) {
         basic.showNumber(reading)
     }
-    if (reading < 10) {
+    if (reading < 50) {
         basic.showLeds(`
             # # # # #
             # # # # #
@@ -25,7 +25,7 @@ basic.forever(function () {
         basic.showLeds(`
             . . . . .
             . . . . .
-            . . # . .
+            . . . . .
             . . . . .
             . . . . .
             `)

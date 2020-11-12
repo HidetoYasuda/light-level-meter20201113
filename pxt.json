@@ -1,5 +1,5 @@
 {
-    "name": "light-level-meter暗くなったら点灯",
+    "name": "20201113microbit-light-level-meter暗くなったら点灯",
     "description": "",
     "dependencies": {
         "core": "*",
